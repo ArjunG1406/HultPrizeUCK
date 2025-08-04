@@ -73,20 +73,6 @@ const Summit = () => {
                                 <Image src={'/8.jpg'} alt='' className='h-[240px] rounded-xl object-cover' width={2200} height={2200} />
                             </div>
                         </Slider.Slide>
-                        <Slider.Slide>
-                            <div className="px-3">
-                                <Image src={'/9.jpg'} alt='' className='h-[240px] rounded-xl object-cover' width={2200} height={2200} />
-                            </div></Slider.Slide>
-                            <Slider.Slide>
-                            <div className="px-3">
-                                <Image src={'/10.jpg'} alt='' className='h-[240px] rounded-xl object-cover' width={2200} height={2200} />
-                            </div>
-                        </Slider.Slide>
-                            <Slider.Slide>
-                            <div className="px-3">
-                                <Image src={'/001.jpg'} alt='' className='h-[240px] rounded-xl object-cover' width={2200} height={2200} />
-                            </div>
-                        </Slider.Slide>
                     </Slider>
                 </div>
             </div>
