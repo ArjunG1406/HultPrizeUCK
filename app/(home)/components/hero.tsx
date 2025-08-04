@@ -74,7 +74,7 @@ export default function Hero() {
                 />
                 <span className='text-xl ps-10' />
                 <FadeContent>
-                    <Link target="_blank" href={'https://innovate.startupmission.in/#/register'} className='bg-pink-600 hover:bg-yellow-500 hover:text-black group flex items-center justify-between w-auto rounded-r-full ps-10 pe-3 py-3 mt-3 text-white'>
+                    <Link target="_blank" href={'_blank'} className='bg-pink-600 hover:bg-yellow-500 hover:text-black group flex items-center justify-between w-auto rounded-r-full ps-10 pe-3 py-3 mt-3 text-white'>
                         <span className='text-3xl group-hover:tracking-widest transition-all tracking-wider '>JOIN NOW!</span>
                         <span className='bg-primary ms-20 rounded-full px-5 py-3'><Image className='w-5 rotate-[38deg] group-hover:rotate-0 transition-all' src={'/favicon.ico'} width={600} height={600} alt='' /> </span>
                     </Link>
