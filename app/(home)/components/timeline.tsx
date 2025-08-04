@@ -11,7 +11,7 @@ const TimelinePage = () => {
                     <p className="text-neutral-700 text-2xl font-normal mb-8">
                         Yathra'25 is an inter-college idea-pitching competition organized by Hult Prize UCEK, open to UG, PG, and PhD students across Kerala. Aligned with the 17 UN Sustainable Development Goals, it empowers participants to present innovative solutions, collaborate with experts, and drive global change.
                     </p>
-                    <Image src={'/005.jpg'} className='rounded-[30px]' alt='' width={800} height={500} />
+                    <Image src={'/005.jpg'} className='rounded-[30px]' alt='yathra' width={800} height={500} />
                 </div>
             ),
         },

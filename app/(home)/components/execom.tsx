@@ -34,49 +34,49 @@ const Execom = () => {
           initial="hidden"
           whileInView="show"
           variants={listItem} className="">
-          <Image src={'/CCO2024.png'} alt='' width={500} height={700} />
+          <Image src={'/CCO2024.png'} alt='1' width={500} height={700} />
         </motion.div>
         <motion.div
           initial="hidden"
           whileInView="show"
           variants={listItem} className="">
-          <Image src={'/CEO2024.png'} alt='' width={500} height={700} />
+          <Image src={'/CEO2024.png'} alt='2' width={500} height={700} />
         </motion.div>
         <motion.div
           initial="hidden"
           whileInView="show"
           variants={listItem} className="">
-          <Image src={'/CFO2024.png'} alt='' width={500} height={700} />
+          <Image src={'/CFO2024.png'} alt='3' width={500} height={700} />
         </motion.div>
         <motion.div
           initial="hidden"
           whileInView="show"
           variants={listItem} className="">
-          <Image src={'/CMO2024.png'} alt='' width={500} height={700} />
+          <Image src={'/CMO2024.png'} alt='4' width={500} height={700} />
         </motion.div>
         <motion.div
           initial="hidden"
           whileInView="show"
           variants={listItem} className="">
-          <Image src={'/COO2024.png'} alt='' width={500} height={700} />
+          <Image src={'/COO2024.png'} alt='5' width={500} height={700} />
         </motion.div>
         <motion.div
           initial="hidden"
           whileInView="show"
           variants={listItem} className="">
-          <Image src={'/CSO2024.png'} alt='' width={500} height={700} />
+          <Image src={'/CSO2024.png'} alt='6' width={500} height={700} />
         </motion.div>
         <motion.div
           initial="hidden"
           whileInView="show"
           variants={listItem} className="">
-          <Image src={'/CTO2024.png'} alt='' width={500} height={700} />
+          <Image src={'/CTO2024.png'} alt='7' width={500} height={700} />
         </motion.div>
         <motion.div
           initial="hidden"
           whileInView="show"
           variants={listItem} className="">
-          <Image src={'/CVO2024.png'} alt='' width={500} height={700} />
+          <Image src={'/CVO2024.png'} alt='8' width={500} height={700} />
         </motion.div>
       </motion.div>
     </div>
