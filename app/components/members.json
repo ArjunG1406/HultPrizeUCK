@@ -1,0 +1,267 @@
+{"membersData":[
+  {
+    "id": 1,
+    "name": "Sruthi G S",
+    "title": "UNIVERSITY REPRESENTATIVE",
+    "image": "",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 1,
+    "name": "Ajesh",
+    "title": "CAMPUS DIRECTOR",
+    "image": "/Director.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 2,
+    "name": "Smrithi T S",
+    "title": "GENERAL SECRETARY",
+    "image": "/Vice.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 1,
+    "name": "Anand S G",
+    "title": "MENTOR",
+    "image": "",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 3,
+    "name": "Liya R Lal",
+    "title": "STRATEGIC RESOURCE DIRECTOR",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 4,
+    "name": "Pranav G Nath",
+    "title": "DIRECTOR OF OPERATIONS",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "http://www.linkedin.com/in/pranavgn",
+    "yearsOfService": 1
+  },
+  {
+    "id": 5,
+    "name": "Binth Saira N",
+    "title": "DEPUTY DIRECTOR OF OPERATIONS",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "https://www.linkedin.com/in/binth-saira-n-55349a32b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "yearsOfService": 2
+  },
+  {
+    "id": 6,
+    "name": "Aruni J S",
+    "title": "OPERATION ASSOCIATE",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 7,
+    "name": "Niveditha Gopakumar",
+    "title": "OPERATION ASSOCIATE",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 8,
+    "name": "Arjun G",
+    "title": "OPERATION ASSOCIATE",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "https://www.linkedin.com/in/arjun-g1406?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "yearsOfService": 0
+  },
+  {
+    "id": 9,
+    "name": "Sooraj U",
+    "title": "DIRECTOR OF OUTREACH AND STRATEGY",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 10,
+    "name": "Vishnu G S",
+    "title": "DEPUTY DIRECTOR OF OUTREACH AND STRATEGY",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "https://www.linkedin.com/in/vishnu-g-s-67b65232b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "yearsOfService": 2
+  },
+  {
+    "id": 11,
+    "name": "Devika I S",
+    "title": "OUTREACH AND STRATEGY ASSOCIATE",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 12,
+    "name": "Sidharth R",
+    "title": "DIRECTOR OF CREATIVE DESIGN",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 13,
+    "name": "Lakshmi A Pillai",
+    "title": "DEPUTY DIRECTOR OF CREATIVE DESIGN",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 14,
+    "name": "Devika R Pillai",
+    "title": "CREATIVE DESIGN ASSOCIATE",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 15,
+    "name": "Anjana M S",
+    "title": "CREATIVE DESIGN ASSOCIATE",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 16,
+    "name": "Nidhina S",
+    "title": "CREATIVE DESIGN ASSOCIATE",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 17,
+    "name": "Sulfiker P S",
+    "title": "CREATIVE DESIGN ASSOCIATE",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 18,
+    "name": "Meenakshi V",
+    "title": "CREATIVE DESIGN ASSOCIATE",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 19,
+    "name": "Divya Biju",
+    "title": "DIRECTOR OF CONTENT STRATEGY",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 20,
+    "name": "Shreya Valsalan",
+    "title": "DEPUTY DIRECTOR OF CONTENT STRATEGY",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 21,
+    "name": "Amna Fathima S",
+    "title": "DIRECTOR OF RESEARCH AND DEVELOPMENT",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 22,
+    "name": "Marwa S Prasad",
+    "title": "DEPUTY DIRECTOR OF RESEARCH AND DEVELOPMENT",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 23,
+    "name": "Abhishek S V",
+    "title": "DIRECTOR OF VISUAL MEDIA",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 24,
+    "name": "Amathul Wakeel",
+    "title": "DEPUTY DIRECTOR OF VISUAL MEDIA",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 25,
+    "name": "Farhan Muhammed N",
+    "title": "VISUAL MEDIA ASSOCIATE",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 26,
+    "name": "Rishad Ali P",
+    "title": "PROGRAM ASSOCIATE",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 27,
+    "name": "Sarath P G",
+    "title": "PROGRAM ASSOCIATE",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 28,
+    "name": "Anjana Suresh",
+    "title": "PROGRAM ASSOCIATE",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 29,
+    "name": "Muhammed Nabel",
+    "title": "PROGRAM ASSOCIATE",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 30,
+    "name": "Bala Bhaskar V S",
+    "title": "PROGRAM ASSOCIATE",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  },
+  {
+    "id": 31,
+    "name": "Deepak Krishnan",
+    "title": "PROGRAM ASSOCIATE",
+    "image": "/Secretary.jpg",
+    "buttonUrl": "_blank",
+    "yearsOfService": 2
+  }
+]
+}

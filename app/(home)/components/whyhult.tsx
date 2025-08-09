@@ -1,14 +1,10 @@
 'use client'
 import { motion } from 'framer-motion'
 import { TextGenerateEffect } from '@/app/components/TextGenerateEffect'
-import { desc, div } from 'framer-motion/client'
 import React from 'react'
 import { FaPeopleGroup } from 'react-icons/fa6'
-import { SiDiscover } from 'react-icons/si'
 import { GlobeIcon, NetworkIcon, TestTube2Icon } from 'lucide-react'
-import { GiIncubator } from 'react-icons/gi'
 import Image from 'next/image'
-import { FollowerPointerCard } from '@/components/ui/following-pointer'
 
 const data = [
     {
@@ -35,13 +31,13 @@ const data = [
 const WhyHult = () => {
     return (
         <div id='whyhult' className="bg-white p-10 rounded-b-[120px]">
-            <section className="py-10 screen px-10 mt-10 border-[0.05rem] rounded-[95px] border-primary bg-white">
+            <section className="py-10 screen px-10 mt-10 border-[0.05rem] rounded-[95px] border-primary bg-white ">
                 <h1 className="w-full text-center text-6xl">WHY <span className="text-primary font-semibold">HULT PRIZE</span>?</h1>
 
                 <TextGenerateEffect duration={1} className="font-medium text-center text-md" words="Here students take their first step as innovators and entrepreneurs" />
-                <div className="grid grid-cols-1 gap-5 md:grid-cols-4 sm:grid-cols-2 mt-10">
+                <div className="grid grid-cols-1 gap-5 md:grid-cols-4 sm:grid-cols-2 mt-10 ">
                     {data.map((item, index) => {
-                        return <motion.div key={index} className='border-[0.01rem] z-[10] flex flex-col items-start rounded-[45px] p-5 hover:border-zinc-300 border-zinc-200' >
+                        return <motion.div key={index} className='border-[0.01rem] z-[10] flex flex-col items-start rounded-[45px] p-5 hover:border-zinc-400 border-zinc-200 ' >
                             <span className='text-slate-700 py-6'>{item.icon}</span>
                             <h3 className='font-medium text-2xl'>{item.title}</h3>
                             <h3 className='font-regular text-md'>{item.desc}</h3>

@@ -1,15 +1,13 @@
 import Hero from "./components/hero";
 import Navbar from "./components/navbar";
 import { VelocityScroll } from "@/components/magicui/scroll-based-velocity";
-import { TextGenerateEffect } from "../components/TextGenerateEffect";
 import About from "./components/about";
 import Partners from "./components/partners";
 import Summit from "./components/yathra";
-import Execom from "./components/execom";
-import { Timeline } from "../components/Timeline";
 import TimelinePage from "./components/timeline";
 import Footer from "./components/footer";
 import WhyHult from "./components/whyhult";
+import Execom1 from "./components/Execom1";
 
 export default function Home() {
   return (
@@ -22,10 +20,9 @@ export default function Home() {
       </section>
       <WhyHult />
       <About />
-      
-      
+      <Partners />
+    <Execom1/>
       <Summit />
-      <Execom />
       <TimelinePage />
       <Footer />
     </main>

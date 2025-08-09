@@ -40,8 +40,8 @@ export default function Hero() {
                     scale={1.4}
                     threshold={0.2}
                 >
-                    <h2 className='md:text-7xl sm:text-6xl text-6xl mb-10 px-10 text-start font-regular p-0 mt-[-10px]'>
-                        Empowering
+                    <h2 className='text-4xl sm:text-5xl md:text-6xl lg:text-7xl mb-10 px-10 text-start font-regular p-0 mt-[-10px]'>
+                            Empowering
                         <br />
                         <span className='font-semibold text-primary tracking-tight'>
                             {currentWordIndex === 0 && <span className={"transition-all animate-fade-in"}>
